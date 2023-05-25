@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6a7f9081-de8c-4b36-8db3-d016f295b685" name="Changes" comment="23.Set Selenium">
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/alboniushko/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/alboniushko/Test.java" afterDir="false" />
+    <list default="true" id="6a7f9081-de8c-4b36-8db3-d016f295b685" name="Changes" comment="24.Locators">
+      <change beforePath="$PROJECT_DIR$/src/main/resources/LICENSE.chromedriver" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/chromedriver" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +22,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="ProjectId" id="2QI2TOh9Qx1w0Q9DmWblQ0DgxFi" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -35,6 +37,9 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
+  <component name="Push.Settings">
+    <option name="SHOW_DETAILS_PANEL" value="false" />
+  </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main/resources" />
@@ -83,12 +88,20 @@
       <option name="project" value="LOCAL" />
       <updated>1685030444146</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="24.Locators">
+      <created>1685035262691</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1685035262691</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
     <MESSAGE value="23.Set Selenium" />
-    <option name="LAST_COMMIT_MESSAGE" value="23.Set Selenium" />
+    <MESSAGE value="24.Locators" />
+    <option name="LAST_COMMIT_MESSAGE" value="24.Locators" />
   </component>
 </project>
