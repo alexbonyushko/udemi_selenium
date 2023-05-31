@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6a7f9081-de8c-4b36-8db3-d016f295b685" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/alboniushko/ImplicitExpectations.java" afterDir="false" />
+    <list default="true" id="6a7f9081-de8c-4b36-8db3-d016f295b685" name="Changes" comment="27.Неявные ожидания">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/alboniushko/MethodClick.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -144,7 +144,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685471857489</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="27.Неявные ожидания">
+      <created>1685473576906</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1685473576906</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -152,6 +159,7 @@
     <MESSAGE value="23.Set Selenium" />
     <MESSAGE value="24.Locators" />
     <MESSAGE value="26.CSS locators" />
-    <option name="LAST_COMMIT_MESSAGE" value="26.CSS locators" />
+    <MESSAGE value="27.Неявные ожидания" />
+    <option name="LAST_COMMIT_MESSAGE" value="27.Неявные ожидания" />
   </component>
 </project>
