@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6a7f9081-de8c-4b36-8db3-d016f295b685" name="Changes" comment="27.Неявные ожидания">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/alboniushko/MethodClick.java" afterDir="false" />
+    <list default="true" id="6a7f9081-de8c-4b36-8db3-d016f295b685" name="Changes" comment="28.Method Click">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/alboniushko/InputTextTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/alboniushko/MethodClick.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/alboniushko/MethodClick.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -151,7 +152,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685473576906</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="28.Method Click">
+      <created>1685527503174</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1685527503174</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -160,6 +168,7 @@
     <MESSAGE value="24.Locators" />
     <MESSAGE value="26.CSS locators" />
     <MESSAGE value="27.Неявные ожидания" />
-    <option name="LAST_COMMIT_MESSAGE" value="27.Неявные ожидания" />
+    <MESSAGE value="28.Method Click" />
+    <option name="LAST_COMMIT_MESSAGE" value="28.Method Click" />
   </component>
 </project>
