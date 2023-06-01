@@ -4,10 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6a7f9081-de8c-4b36-8db3-d016f295b685" name="Changes" comment="31.Element Properties">
-      <change afterPath="$PROJECT_DIR$/src/main/java/common/CommonAction.java" afterDir="false" />
+    <list default="true" id="6a7f9081-de8c-4b36-8db3-d016f295b685" name="Changes" comment="32.Framework+Singleton">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pages/base/BasePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pages/realthome/RealtHomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/base/BaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/searchapartaments/SearchApartTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -194,7 +197,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685544578939</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="32.Framework+Singleton">
+      <created>1685558377822</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1685558377822</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -207,6 +217,7 @@
     <MESSAGE value="29. Input Text" />
     <MESSAGE value="30. Get Text" />
     <MESSAGE value="31.Element Properties" />
-    <option name="LAST_COMMIT_MESSAGE" value="31.Element Properties" />
+    <MESSAGE value="32.Framework+Singleton" />
+    <option name="LAST_COMMIT_MESSAGE" value="32.Framework+Singleton" />
   </component>
 </project>
