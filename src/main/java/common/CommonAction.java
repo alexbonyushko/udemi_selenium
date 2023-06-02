@@ -24,6 +24,7 @@ public class CommonAction {
                 case "mac_chrome":
                     System.setProperty("webdriver.chrome.driver", "/Users/alboniushko/IdeaProjects/udemi_selenium/src/main/resources/chromedriver");
                     driver = new ChromeDriver();
+                    break;
                 default:
                     Assert.fail("Incorrect OS or browser: " + PLATFORM_AND_BROWSER);
             }
