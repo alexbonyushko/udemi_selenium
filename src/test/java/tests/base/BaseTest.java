@@ -2,7 +2,7 @@ package tests.base;
 
 import common.CommonAction;
 import org.openqa.selenium.Alert;
-import org.openqa.selenium.JavascriptException;
+
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.support.ui.ExpectedConditions;
