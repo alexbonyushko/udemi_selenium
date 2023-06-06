@@ -14,5 +14,7 @@ public class SearchApartTest extends BaseTest {
         realtListingPage
                 .checkCountCards();
 
+        switchWindow();
+
     }
 }
